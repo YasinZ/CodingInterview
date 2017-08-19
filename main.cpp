@@ -1,7 +1,10 @@
 #include "header.h"
 
 int main() {
-    TestIsUnique();
+    //TestIsUnique();
+    //TestCheckPermutation();
+    TestURLify();
+
     return 0;
 }
 

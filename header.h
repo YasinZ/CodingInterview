@@ -10,6 +10,6 @@
 // Function headers
 void TestIsUnique();
 void TestCheckPermutation();
-
+void TestURLify();
 
 #endif //CODINGINTERVIEW_HEADER_H
