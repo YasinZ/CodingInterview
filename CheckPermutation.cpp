@@ -44,3 +44,4 @@ int GetLength(std::string str)
 
     return i;
 }
+

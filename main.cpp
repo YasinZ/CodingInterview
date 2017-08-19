@@ -3,7 +3,8 @@
 int main() {
     //TestIsUnique();
     //TestCheckPermutation();
-    TestURLify();
+    //TestURLify();
+    TestPalindromePermutation();
 
     return 0;
 }

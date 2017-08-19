@@ -11,5 +11,7 @@
 void TestIsUnique();
 void TestCheckPermutation();
 void TestURLify();
+void TestPalindromePermutation();
+
 
 #endif //CODINGINTERVIEW_HEADER_H
