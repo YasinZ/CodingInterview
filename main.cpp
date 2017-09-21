@@ -4,7 +4,8 @@ int main() {
     //TestIsUnique();
     //TestCheckPermutation();
     //TestURLify();
-    TestPalindromePermutation();
+    //TestPalindromePermutation();
+    TestStringCompression();
 
     return 0;
 }

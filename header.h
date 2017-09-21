@@ -12,6 +12,9 @@ void TestIsUnique();
 void TestCheckPermutation();
 void TestURLify();
 void TestPalindromePermutation();
+void TestStringCompression();
+
+
 
 
 #endif //CODINGINTERVIEW_HEADER_H

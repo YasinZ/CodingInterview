@@ -3,5 +3,5 @@ project(CodingInterview)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp header.h IsUnique.cpp CheckPermutation.cpp URLify.cpp TestPalindromePermutation.cpp)
+set(SOURCE_FILES main.cpp header.h IsUnique.cpp CheckPermutation.cpp URLify.cpp TestPalindromePermutation.cpp StringCompression.cpp)
 add_executable(CodingInterview ${SOURCE_FILES})

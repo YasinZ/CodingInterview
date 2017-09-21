@@ -1,4 +1,4 @@
-// URLify pg 90, completed
+// URLify pg 90, completed, solved incorrectly. Use given length to find spaces then redistribute correctly.
 // Created by Yasin on 8/19/2017.
 //
 #include "header.h"
